@@ -16,5 +16,5 @@ Press and business: LeBlancJS88@gmail.com
 Please see CODE_OF_CONDUCT.md if present in this repository.
 
 ## Legal
-Copyright (c) [Year] [Organization]. All rights reserved.
+Copyright (c) 2025 Lost Hearth Games. All rights reserved.
 Third-party licenses and notices, if any, will be listed in /ThirdPartyNotices.
