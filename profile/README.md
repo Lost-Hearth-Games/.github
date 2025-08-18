@@ -1,5 +1,3 @@
-# README.md
-
 # Unannounced Project
 
 This repository is for an original game currently in development.
